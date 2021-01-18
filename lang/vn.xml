@@ -1,0 +1,1209 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<data> 
+  <lang slug="Processing"> 
+    <text>Tiến trình</text>
+  </lang>
+  <lang slug="Queue">  
+    <text>Đợi</text>
+  </lang>
+  <lang slug="Failure">  
+    <text>Lỗi</text>
+  </lang>
+  <lang slug="Repeat"> 
+    <text>Lặp lại</text>
+  </lang>
+  <lang slug="Complete"> 
+    <text>Hoàn thành</text>
+  </lang>
+  <lang slug="You have not joined this group"> 
+    <text>Bạn chưa tham gia nhóm này</text>
+  </lang>
+  <lang slug="Cookie expired, Please login again"> 
+    <text>Hết phiên, vui lòng đăng nhập lại</text>
+  </lang>
+  <lang slug="Post successfully">  
+    <text>Post thành công</text>
+  </lang>
+  <lang slug="Registration for join in the success group"> 
+    <text>Vào nhóm thành công</text>
+  </lang>
+  <lang slug="Join group failure"> 
+    <text>Vào nhóm thất bại</text>
+  </lang>
+  <lang slug="Comment successfully"> 
+    <text>Comment thành công</text>
+  </lang>
+  <lang slug="Comment failure">  
+    <text>Comment thất bại</text>
+  </lang>
+  <lang slug="Like successfully">  
+    <text>Like thành công</text>
+  </lang>
+  <lang slug="Like failure"> 
+    <text>Like thất bại</text>
+  </lang>
+  <lang slug="Friend request sent">  
+    <text>Gửi yêu cầu kết bạn</text>
+  </lang>
+  <lang slug="Friend request failure"> 
+    <text>Lỗi request</text>
+  </lang>
+  <lang slug="Unfriend successfully">  
+    <text>Unfriend thành công</text>
+  </lang>
+  <lang slug="Unfriend failure"> 
+    <text>Unfriend thất bại</text>
+  </lang>
+  <lang slug="Invite successfully">  
+    <text>Mời thành công</text>
+  </lang>
+  <lang slug="Invite failure"> 
+    <text>Mời thất bại</text>
+  </lang>
+  <lang slug="Accept friend request successfully"> 
+    <text>Chấp nhận kết bạn thành công</text>
+  </lang>
+  <lang slug="Accept friend request failure">  
+    <text>Chấp nhận kết bạn không thành công</text>
+  </lang>
+  <lang slug="Repost successfully">  
+    <text>Repost thành công</text>
+  </lang>
+  <lang slug="This page does not have recent post">  
+    <text>Trang không có bài đăng gần đây</text>
+  </lang>
+  <lang slug="Auto accept friend request"> 
+    <text>Tự động chấp nhận yêu cầu kết bạn</text>
+  </lang>
+  <lang slug="Facebook account not exist"> 
+    <text>Tài khoản không tồn tại</text>
+  </lang>
+  <lang slug="Have problem with this item">  
+    <text>Xảy ra lỗi với item</text>
+  </lang>
+  <lang slug="Time post is required">  
+    <text>Thời gian là bắt buộc</text>
+  </lang>
+  <lang slug="Select at least a facebook user">  
+    <text>Chọn 1 tài khoản facebook</text>
+  </lang>
+  <lang slug="Successfully"> 
+    <text>Thành công</text>
+  </lang>
+  <lang slug="The error occurred during processing"> 
+    <text>Lỗi xảy ra trong quá trình xử lý</text>
+  </lang>
+  <lang slug="ID"> 
+    <text>ID</text>
+  </lang>
+  <lang slug="Name"> 
+    <text>Tên</text>
+  </lang>
+  <lang slug="Process">  
+    <text>Tiến trình</text>
+  </lang>
+  <lang slug="Delay (seconds)">  
+    <text>Chờ(giây)</text>
+  </lang>
+  <lang slug="seconds">  
+    <text>Giây</text>
+  </lang>
+  <lang slug="Add now">  
+    <text>Thêm mới</text>
+  </lang>
+  <lang slug="Schedule"> 
+    <text>Lịch trình</text>
+  </lang>
+  <lang slug="Time post">  
+    <text>Thời gian post</text>
+  </lang>
+  <lang slug="Delay (minutes)">  
+    <text>Chờ(phút)</text>
+  </lang>
+  <lang slug="minutes">  
+    <text>Phút</text>
+  </lang>
+  <lang slug="Auto pause after complete">  
+    <text>Dừng sau khi hoàn thành</text>
+  </lang>
+  <lang slug="No"> 
+    <text>Không</text>
+  </lang>
+  <lang slug="posts">  
+    <text>đăng</text>
+  </lang>
+  <lang slug="Time pause"> 
+    <text>Thời gian dừng lại</text>
+  </lang>
+  <lang slug="Save the schedule">  
+    <text>Lưu lich trình</text>
+  </lang>
+  <lang slug="Pause">  
+    <text>Dừng lại</text>
+  </lang>
+  <lang slug="Resume"> 
+    <text>Tiếp tục</text>
+  </lang>
+  <lang slug="Time left:"> 
+    <text>Thời gian còn lại:</text>
+  </lang>
+  <lang slug="Select Facebook Users">  
+    <text>Chọn tài khoản Facebook</text>
+  </lang>
+  <lang slug="Facebook accounts">  
+    <text>Tài khoản Facebook</text>
+  </lang>
+  <lang slug="Search"> 
+    <text>Tìm kiếm</text>
+  </lang>
+  <lang slug="Auto add friends"> 
+    <text>Tự động kết bạn</text>
+  </lang>
+  <lang slug="Keyword is requied"> 
+    <text>Từ khóa yêu cầu</text>
+  </lang>
+  <lang slug="Facebook User ID is requied">  
+    <text>ID User yêu cầu</text>
+  </lang>
+  <lang slug="Group ID is requied">  
+    <text>ID Group yêu cầu</text>
+  </lang>
+  <lang slug="Post ID is requied"> 
+    <text>ID bài đăng yêu cầu</text>
+  </lang>
+  <lang slug="Privacy">  
+    <text>Riêng tư</text>
+  </lang>
+  <lang slug="Member"> 
+    <text>Thành viên</text>
+  </lang>
+  <lang slug="Get members">  
+    <text>Lấy thành viên</text>
+  </lang>
+  <lang slug="Search Friend">  
+    <text>Tìm bạn</text>
+  </lang>
+  <lang slug="Friend Of User"> 
+    <text>Bạn của User</text>
+  </lang>
+  <lang slug="Memer Of Groups">  
+    <text>Thành viên Groups</text>
+  </lang>
+  <lang slug="Who like Post">  
+    <text>Người like Post</text>
+  </lang>
+  <lang slug="Who Comment Post"> 
+    <text>Người Comment Post</text>
+  </lang>
+  <lang slug="Import Facebook UID">  
+    <text>Nhập Facebook UID</text>
+  </lang>
+  <lang slug="Keyword">  
+    <text>Từ khóa</text>
+  </lang>
+  <lang slug="Limit">  
+    <text>Giới hạn</text>
+  </lang>
+  <lang slug="Facebook User ID"> 
+    <text>ID tài khoản FB</text>
+  </lang>
+  <lang slug="Group ID"> 
+    <text>ID Nhóm</text>
+  </lang>
+  <lang slug="Post ID">  
+    <text>ID bài đăng</text>
+  </lang>
+  <lang slug="Import List Facebook UID"> 
+    <text>Nhập List Facebook UID</text>
+  </lang>
+  <lang slug="Upload"> 
+    <text>Tải lên</text>
+  </lang>
+  <lang slug="Type"> 
+    <text>Kiểu</text>
+  </lang>
+  <lang slug="Link"> 
+    <text>Link</text>
+  </lang>
+  <lang slug="Analytics page"> 
+    <text>Trang phân tích</text>
+  </lang>
+  <lang slug="List page">  
+    <text>List page</text>
+  </lang>
+  <lang slug="All accounts"> 
+    <text>Tất cả tài khoản</text>
+  </lang>
+  <lang slug="No.">  
+    <text>Không.</text>
+  </lang>
+  <lang slug="Account">  
+    <text>Tài khoản</text>
+  </lang>
+  <lang slug="Category"> 
+    <text>Chuyên mục</text>
+  </lang>
+  <lang slug="Analytics">  
+    <text>Phân tích</text>
+  </lang>
+  <lang slug="Visit page"> 
+    <text>Đến trang</text>
+  </lang>
+  <lang slug="2016 - 2017 © VTCreators. All rights reserved."> 
+    <text>2017 - 2018 © Alotoi.com. All rights reserved.</text>
+  </lang>
+  <lang slug="Pricing">  
+    <text>Giá</text>
+  </lang>
+  <lang slug="Register"> 
+    <text>Đăng ký</text>
+  </lang>
+  <lang slug="Login">  
+    <text>Đăng nhập</text>
+  </lang>
+  <lang slug="Hi"> 
+    <text>Chào</text>
+  </lang>
+  <lang slug="MAIN NAVIGATION">  
+    <text>MAIN CHÍNH</text>
+  </lang>
+  <lang slug="Dashboard">  
+    <text>Tổng quan</text>
+  </lang>
+  <lang slug="Save post">  
+    <text>Lưu bài</text>
+  </lang>
+  <lang slug="LIST TOOLS"> 
+    <text>MENU CÔNG CỤ</text>
+  </lang>
+  <lang slug="Auto post">  
+    <text>Tự động đăng</text>
+  </lang>
+  <lang slug="Add new">  
+    <text>Thêm mới</text>
+  </lang>
+  <lang slug="Schedule post">  
+    <text>Lịch trình đăng</text>
+  </lang>
+  <lang slug="Auto repost pages">  
+    <text>Tự động repost pages</text>
+  </lang>
+  <lang slug="Repalce text"> 
+    <text>Thay thế text</text>
+  </lang>
+  <lang slug="Schedule repost pages">  
+    <text>Lịch repost pages</text>
+  </lang>
+  <lang slug="Auto join groups"> 
+    <text>Tự động tham gia nhóm</text>
+  </lang>
+  <lang slug="Schedule join group">  
+    <text>Lịch trình tham gia nhóm</text>
+  </lang>
+  <lang slug="Schedule add friends"> 
+    <text>Lịch kết bạn</text>
+  </lang>
+  <lang slug="Auto unfriends"> 
+    <text>Tự đông xóa bạn bè</text>
+  </lang>
+  <lang slug="Schedule unfriends"> 
+    <text>Lịch xóa bạn bè</text>
+  </lang>
+  <lang slug="Auto invite to groups">  
+    <text>Tự động mời tham gia nhóm</text>
+  </lang>
+  <lang slug="Schedule invite to groups">  
+    <text>Lịch trình mời tham gia nhóm</text>
+  </lang>
+  <lang slug="Auto invite to like page"> 
+    <text>Tự động mời like page</text>
+  </lang>
+  <lang slug="Schedule invite to like page"> 
+    <text>Lịch mời like page</text>
+  </lang>
+  <lang slug="Schedule accept friend request"> 
+    <text>Lịch chấp nhận yêu cầu kết bạn</text>
+  </lang>
+  <lang slug="Auto comment"> 
+    <text>Tự động comment</text>
+  </lang>
+  <lang slug="Schedule comment"> 
+    <text>Lịch trình comment</text>
+  </lang>
+  <lang slug="Auto like">  
+    <text>Tư động like</text>
+  </lang>
+  <lang slug="Schedule like">  
+    <text>Lịch trình like</text>
+  </lang>
+  <lang slug="Facebook search">  
+    <text>Facebook tìm kiếm</text>
+  </lang>
+  <lang slug="ADMIN AREA"> 
+    <text>Khu vưc Admin</text>
+  </lang>
+  <lang slug="Payment management"> 
+    <text>Payment management</text>
+  </lang>
+  <lang slug="Package settings"> 
+    <text>Package settings</text>
+  </lang>
+  <lang slug="Payment settings"> 
+    <text>Payment settings</text>
+  </lang>
+  <lang slug="Payment history">  
+    <text>Payment history</text>
+  </lang>
+  <lang slug="User management">  
+    <text>User management</text>
+  </lang>
+  <lang slug="Settings"> 
+    <text>Cài đặt</text>
+  </lang>
+  <lang slug="VT Creators Team"> 
+    <text>Alotoi.com</text>
+  </lang>
+  <lang slug="Select at least a item"> 
+    <text>Chọn item</text>
+  </lang>
+  <lang slug="Select at least a Page/Group/Profile"> 
+    <text>Chọn Page/Group/Profile</text>
+  </lang>
+  <lang slug="Message is required">  
+    <text>Tin nhắn yêu cầu</text>
+  </lang>
+  <lang slug="Link is not a valid">  
+    <text>Link không hợp lệ</text>
+  </lang>
+  <lang slug="Select at least a friend"> 
+    <text>Chọn bạn bè</text>
+  </lang>
+  <lang slug="Message">  
+    <text>Tin nhắn</text>
+  </lang>
+  <lang slug="Write something..."> 
+    <text>Viết nội dung...</text>
+  </lang>
+  <lang slug="Save comment"> 
+    <text>Lưu comment</text>
+  </lang>
+  <lang slug="Comment now">  
+    <text>Comment bây giờ</text>
+  </lang>
+  <lang slug="Repeat post">  
+    <text>Lặp post</text>
+  </lang>
+  <lang slug="days"> 
+    <text>ngày</text>
+  </lang>
+  <lang slug="End day">  
+    <text>đến ngày</text>
+  </lang>
+  <lang slug="Preview">  
+    <text>Xem trước</text>
+  </lang>
+  <lang slug="Save list">  
+    <text>Lưu list</text>
+  </lang>
+  <lang slug="Select Pages/Groups/Profiles/Friends"> 
+    <text>Chọn Pages/Groups/Profiles/Friends</text>
+  </lang>
+  <lang slug="All categories"> 
+    <text>Tất cả chuyên mục</text>
+  </lang>
+  <lang slug="Add new category"> 
+    <text>Thêm mới chuyên mục</text>
+  </lang>
+  <lang slug="Update category">  
+    <text>Cập nhật chuyên mục</text>
+  </lang>
+  <lang slug="Remove category selected"> 
+    <text>Xóa chuyên mục đã chọn</text>
+  </lang>
+  <lang slug="All Profiles"> 
+    <text>Tất cả hồ sơ</text>
+  </lang>
+  <lang slug="All Groups"> 
+    <text>Tất cả Groups</text>
+  </lang>
+  <lang slug="All Pages">  
+    <text>Tất cả Pages</text>
+  </lang>
+  <lang slug="All Friends">  
+    <text>Tất cả Friends</text>
+  </lang>
+  <lang slug="______"> 
+    <text>______</text>
+  </lang>
+  <lang slug="Select category">  
+    <text>họn chuyên mục</text>
+  </lang>
+  <lang slug="Update"> 
+    <text>Cập nhật</text>
+  </lang>
+  <lang slug="TEXT"> 
+    <text>TEXT</text>
+  </lang>
+  <lang slug="IMAGE">  
+    <text>Ảnh</text>
+  </lang>
+  <lang slug="VIDEO">  
+    <text>VIDEO</text>
+  </lang>
+  <lang slug="Picture">  
+    <text>Picture</text>
+  </lang>
+  <lang slug="Title">  
+    <text>Tiêu đề</text>
+  </lang>
+  <lang slug="Caption">  
+    <text>Caption</text>
+  </lang>
+  <lang slug="Description">  
+    <text>Mô tả</text>
+  </lang>
+  <lang slug="Video URL">  
+    <text>Video URL</text>
+  </lang>
+  <lang slug="Post now"> 
+    <text>Post ngay</text>
+  </lang>
+  <lang slug="Anonymous">  
+    <text>Alotoi.com</text>
+  </lang>
+  <lang slug="Just now"> 
+    <text>Ngay bây giờ</text>
+  </lang>
+  <lang slug="Select Pages/Groups/Profiles"> 
+    <text>Chọn Pages/Groups/Profiles</text>
+  </lang>
+  <lang slug="Total process">  
+    <text>Tông tiến trình</text>
+  </lang>
+  <lang slug="Profile">  
+    <text>Hồ sơ</text>
+  </lang>
+  <lang slug="Report by day">  
+    <text>Báo cáo theo ngày</text>
+  </lang>
+  <lang slug="Post"> 
+    <text>Post</text>
+  </lang>
+  <lang slug="Success">  
+    <text>Thành công</text>
+  </lang>
+  <lang slug="Direct message"> 
+    <text>Direct message</text>
+  </lang>
+  <lang slug="Join groups">  
+    <text>Tham gia groups</text>
+  </lang>
+  <lang slug="Add friends">  
+    <text>Kết bạn</text>
+  </lang>
+  <lang slug="Comment">  
+    <text>Comment</text>
+  </lang>
+  <lang slug="Like"> 
+    <text>Like</text>
+  </lang>
+  <lang slug="Groups"> 
+    <text>Groups</text>
+  </lang>
+  <lang slug="Friend"> 
+    <text>Friend</text>
+  </lang>
+  <lang slug="Please input all fields">  
+    <text>Vui lọng nhập đủ các trường</text>
+  </lang>
+  <lang slug="Passwords must be at least 6 characters long"> 
+    <text>Mật khẩu phải 6 ký tự trở lên</text>
+  </lang>
+  <lang slug="Update successfully">  
+    <text>Cập nhật thành công</text>
+  </lang>
+  <lang slug="Please enter access token">  
+    <text>Nhập access token</text>
+  </lang>
+  <lang slug="This facebook account already exists"> 
+    <text>Tài khoản facebook đã tồn tại</text>
+  </lang>
+  <lang slug="Oh sorry! You have exceeded the number of accounts allowed, You are only allowed to update your account">  
+    <text>Vượt quá số tài khoản cho phép</text>
+  </lang>
+  <lang slug="Update failure"> 
+    <text>Cập nhật thất bại</text>
+  </lang>
+  <lang slug="Action"> 
+    <text>Hành động</text>
+  </lang>
+  <lang slug="Active"> 
+    <text>Kích hoạt</text>
+  </lang>
+  <lang slug="Deactive"> 
+    <text>Vô hiệu</text>
+  </lang>
+  <lang slug="Delete"> 
+    <text>Xóa</text>
+  </lang>
+  <lang slug="User"> 
+    <text>User</text>
+  </lang>
+  <lang slug="Facebook ID">  
+    <text>Facebook ID</text>
+  </lang>
+  <lang slug="Fullname"> 
+    <text>Tên</text>
+  </lang>
+  <lang slug="Username"> 
+    <text>Username</text>
+  </lang>
+  <lang slug="Token">  
+    <text>Token</text>
+  </lang>
+  <lang slug="Update Groups">  
+    <text>Update Groups</text>
+  </lang>
+  <lang slug="Update Pages"> 
+    <text>Update Pages</text>
+  </lang>
+  <lang slug="Update Friends"> 
+    <text>Update Friends</text>
+  </lang>
+  <lang slug="Status"> 
+    <text>Status</text>
+  </lang>
+  <lang slug="Option"> 
+    <text>Option</text>
+  </lang>
+  <lang slug="Are you sure you want to delete this item?"> 
+    <text>Bạn có chắc bạn muốn xóa mục này?</text>
+  </lang>
+  <lang slug="Update Facebook account">  
+    <text>Cập nhật tài khoản Facebook</text>
+  </lang>
+  <lang slug="STEP 1: GET ACCESS TOKEN"> 
+    <text>Bước 1: Lấy ACCESS TOKEN</text>
+  </lang>
+  <lang slug="Facebook username">  
+    <text>Tên đăng nhập Facebook</text>
+  </lang>
+  <lang slug="Facebook password">  
+    <text>Mật khẩu Facebook</text>
+  </lang>
+  <lang slug="Facebook App"> 
+    <text>Facebook App</text>
+  </lang>
+  <lang slug="Get Access Token"> 
+    <text>Lấy Access Token</text>
+  </lang>
+  <lang slug="STEP 2: ADD ACCESS TOKEN"> 
+    <text>Bước 2: Nhập ACCESS TOKEN</text>
+  </lang>
+  <lang slug="Access Token"> 
+    <text>Access Token</text>
+  </lang>
+  <lang slug="Submit"> 
+    <text>Bắt dầu</text>
+  </lang>
+  <lang slug="Back"> 
+    <text>Quay lại</text>
+  </lang>
+  <lang slug="THE ULTIMATE WAY TO HELP YOUR MARKETING EFFECTIVENESS ON FACEBOOK TODAY ESPECIALLY WITH DIRECT MESSAGE TO ALL YOUR FRIENDS"> 
+    <text>THE ULTIMATE WAY TO HELP YOUR MARKETING EFFECTIVENESS ON FACEBOOK TODAY ESPECIALLY WITH DIRECT MESSAGE TO ALL YOUR FRIENDS</text>
+  </lang>
+  <lang slug="Using social media is a fun and sure way to get new friends, customers and fans. Getting your Facebook profile out there for everyone to see is a hard and tedious task and time is very precious for all of us and promoting yourself on Facebook is a time-consuming everyday activity. Let VTPoster help you automate your daily activity and get you the crowd you deserve and desire">  
+    <text>Using social media is a fun and sure way to get new friends, customers and fans. Getting your Facebook profile out there for everyone to see is a hard and tedious task and time is very precious for all of us and promoting yourself on Facebook is a time-consuming everyday activity. Let VTPoster help you automate your daily activity and get you the crowd you deserve and desire</text>
+  </lang>
+  <lang slug="This is what VTPoster can do for you"> 
+    <text>Đày là nhừng gì Alotoi.com có thể làm cho bạn</text>
+  </lang>
+  <lang slug="Post/Schedule">  
+    <text>Post/Lịch trình</text>
+  </lang>
+  <lang slug="Post link, image, video and text to multi profiles, multi page, multi groups and special is post link to closed/secret groups">  
+    <text>Post link, ảnh, video và text to multi profiles, nhiều page, nhiều groups và có thể post vào group đóng.</text>
+  </lang>
+  <lang slug="Post link and text to wall of all your friends just only a few some click mouse">  
+    <text>Post link và text lên tường bạn bè nhanh chóng</text>
+  </lang>
+  <lang slug="Send Direct Message">  
+    <text>Send Direct Message</text>
+  </lang>
+  <lang slug="Send direct message to all your friends with text and link and vivid emojis">  
+    <text>Send direct message to all your friends with text and link and vivid emojis</text>
+  </lang>
+  <lang slug="Automatically register join groups by your target. just need a few click your can join 1000+ groups">  
+    <text>Tự động tham gia nhóm nhắm mục tiêu, 1 click hơn 1000 nhóm</text>
+  </lang>
+  <lang slug="Auto Add Friend">  
+    <text>Auto Add Friend</text>
+  </lang>
+  <lang slug="Help you find and add friends by Facebook suggestions, Faceook search or Friends list of anyone">  
+    <text>Help you find and add friends by Facebook suggestions, Faceook search or Friends list of anyone</text>
+  </lang>
+  <lang slug="Comment Lasted Post">  
+    <text>Comment Lasted Post</text>
+  </lang>
+  <lang slug="Automatically find lasted post on profiles, pages, profiles or your friend and automatically comment with type text and link to that posts"> 
+    <text>Automatically find lasted post on profiles, pages, profiles or your friend and automatically comment with type text and link to that posts</text>
+  </lang>
+  <lang slug="Like Lasted Post"> 
+    <text>Like Lasted Post</text>
+  </lang>
+  <lang slug="Automatically find lasted post on profiles, pages, profiles or your friend and automatically like with type text and link to that posts">  
+    <text>Automatically find lasted post on profiles, pages, profiles or your friend and automatically like with type text and link to that posts</text>
+  </lang>
+  <lang slug="Help you find all info of pages, groups, users, events and place and then you can export them on file xls, csv"> 
+    <text>Help you find all info of pages, groups, users, events and place and then you can export them on file xls, csv</text>
+  </lang>
+  <lang slug="Fanpage Analytics">  
+    <text>Fanpage Analytics</text>
+  </lang>
+  <lang slug="All the data on your fanpage will appear only on a single page. For example: Reach and Impressions,  Interactive Posts, Likes &amp; Unlikes, ..."> 
+    <text>All the data on your fanpage will appear only on a single page. For example: Reach and Impressions,  Interactive Posts, Likes &amp; Unlikes, ...</text>
+  </lang>
+  <lang slug="Save posts"> 
+    <text>Save posts</text>
+  </lang>
+  <lang slug="You will not have to enter the content for posting next time with save post feature">  
+    <text>You will not have to enter the content for posting next time with save post feature</text>
+  </lang>
+  <lang slug="Report Schedule">  
+    <text>Report Schedule</text>
+  </lang>
+  <lang slug="Report all info for posted. For example: post success, failure, processing, repeat, ...">  
+    <text>Report all info for posted. For example: post success, failure, processing, repeat, ...</text>
+  </lang>
+  <lang slug="Preview Post"> 
+    <text>Preview Post</text>
+  </lang>
+  <lang slug="Help you preview your post before publishing them">  
+    <text>Help you preview your post before publishing them</text>
+  </lang>
+  <lang slug="And many more another feature..."> 
+    <text>And many more another feature...</text>
+  </lang>
+  <lang slug="Select your timezone to start your campaign">  
+    <text>Select your timezone to start your campaign</text>
+  </lang>
+  <lang slug="Save"> 
+    <text>Save</text>
+  </lang>
+  <lang slug="Invite now"> 
+    <text>Mời ngay</text>
+  </lang>
+  <lang slug="Select Friends"> 
+    <text>Chọn bạn</text>
+  </lang>
+  <lang slug="Auto invite to pages"> 
+    <text>Tự động mời like trang</text>
+  </lang>
+  <lang slug="Page ID is requied"> 
+    <text>Page ID is requied</text>
+  </lang>
+  <lang slug="Page ID">  
+    <text>Page ID</text>
+  </lang>
+  <lang slug="Select at least a group">  
+    <text>Select at least a group</text>
+  </lang>
+  <lang slug="Join now"> 
+    <text>Join now</text>
+  </lang>
+  <lang slug="Select Groups">  
+    <text>Select Groups</text>
+  </lang>
+  <lang slug="Search Groups">  
+    <text>Search Groups</text>
+  </lang>
+  <lang slug="Import Groups ID"> 
+    <text>Import Groups ID</text>
+  </lang>
+  <lang slug="Import List Groups ID">  
+    <text>Import List Groups ID</text>
+  </lang>
+  <lang slug="Like now"> 
+    <text>Like now</text>
+  </lang>
+  <lang slug="Name is required"> 
+    <text>Name is required</text>
+  </lang>
+  <lang slug="Price is required">  
+    <text>Price is required</text>
+  </lang>
+  <lang slug="Day is required">  
+    <text>Day is required</text>
+  </lang>
+  <lang slug="-successfully">  
+    <text>-successfully</text>
+  </lang>
+  <lang slug="Price">  
+    <text>Price</text>
+  </lang>
+  <lang slug="Day">  
+    <text>Day</text>
+  </lang>
+  <lang slug="Default">  
+    <text>Default</text>
+  </lang>
+  <lang slug="Update package"> 
+    <text>Update package</text>
+  </lang>
+  <lang slug="Package name"> 
+    <text>Package name</text>
+  </lang>
+  <lang slug="Package price">  
+    <text>Package price</text>
+  </lang>
+  <lang slug="Package day">  
+    <text>Package day</text>
+  </lang>
+  <lang slug="Package order">  
+    <text>Package order</text>
+  </lang>
+  <lang slug="Package default">  
+    <text>Package default</text>
+  </lang>
+  <lang slug="Yes">  
+    <text>Yes</text>
+  </lang>
+  <lang slug="Free"> 
+    <text>Free</text>
+  </lang>
+  <lang slug="Trial">  
+    <text>Trial</text>
+  </lang>
+  <lang slug="Maximum Facebook account on user"> 
+    <text>Maximum Facebook account on user</text>
+  </lang>
+  <lang slug="Maximum groups"> 
+    <text>Maximum groups</text>
+  </lang>
+  <lang slug="Maximum pages">  
+    <text>Maximum pages</text>
+  </lang>
+  <lang slug="Maximum friends">  
+    <text>Maximum friends</text>
+  </lang>
+  <lang slug="List modules"> 
+    <text>List modules</text>
+  </lang>
+  <lang slug="Invoice">  
+    <text>Invoice</text>
+  </lang>
+  <lang slug="First name"> 
+    <text>First name</text>
+  </lang>
+  <lang slug="Last name">  
+    <text>Last name</text>
+  </lang>
+  <lang slug="Receiver email"> 
+    <text>Receiver email</text>
+  </lang>
+  <lang slug="Payer email">  
+    <text>Payer email</text>
+  </lang>
+  <lang slug="Package">  
+    <text>Package</text>
+  </lang>
+  <lang slug="Currency"> 
+    <text>Currency</text>
+  </lang>
+  <lang slug="Street"> 
+    <text>Street</text>
+  </lang>
+  <lang slug="City"> 
+    <text>City</text>
+  </lang>
+  <lang slug="Country">  
+    <text>Country</text>
+  </lang>
+  <lang slug="Payment date"> 
+    <text>Payment date</text>
+  </lang>
+  <lang slug="Payment status"> 
+    <text>Payment status</text>
+  </lang>
+  <lang slug="Paypal email is required"> 
+    <text>Paypal email is required</text>
+  </lang>
+  <lang slug="Currency is required"> 
+    <text>Currency is required</text>
+  </lang>
+  <lang slug="Paypal email"> 
+    <text>Paypal email</text>
+  </lang>
+  <lang slug="PICK THE BEST PLAN FOR YOU!"> 
+    <text>PICK THE BEST PLAN FOR YOU!</text>
+  </lang>
+  <lang slug="Pages">  
+    <text>Pages</text>
+  </lang>
+  <lang slug="Friends">  
+    <text>Friends</text>
+  </lang>
+  <lang slug="UPGRADE NOW">  
+    <text>UPGRADE NOW</text>
+  </lang>
+  <lang slug="Link is required"> 
+    <text>Link is required</text>
+  </lang>
+  <lang slug="Image is required">  
+    <text>Image is required</text>
+  </lang>
+  <lang slug="Video is required">  
+    <text>Video is required</text>
+  </lang>
+  <lang slug="Find text is requied"> 
+    <text>Find text is requied</text>
+  </lang>
+  <lang slug="This find text already exists">  
+    <text>This find text already exists</text>
+  </lang>
+  <lang slug="Please select a type post">  
+    <text>Please select a type post</text>
+  </lang>
+  <lang slug="Select at least a Pages/Groups/Profiles">  
+    <text>Select at least a Pages/Groups/Profiles</text>
+  </lang>
+  <lang slug="Repost with types">  
+    <text>Repost with types</text>
+  </lang>
+  <lang slug="Time start"> 
+    <text>Time start</text>
+  </lang>
+  <lang slug="Select Pages Or Profile">  
+    <text>Select Pages Or Profile</text>
+  </lang>
+  <lang slug="Find text">  
+    <text>Find text</text>
+  </lang>
+  <lang slug="Replace with"> 
+    <text>Replace with</text>
+  </lang>
+  <lang slug="List Replace"> 
+    <text>List Replace</text>
+  </lang>
+  <lang slug="Find"> 
+    <text>Find</text>
+  </lang>
+  <lang slug="Replace">  
+    <text>Replace</text>
+  </lang>
+  <lang slug="Save management">  
+    <text>Save management</text>
+  </lang>
+  <lang slug="Save successfully">  
+    <text>Save successfully</text>
+  </lang>
+  <lang slug="Schedules">  
+    <text>Schedules</text>
+  </lang>
+  <lang slug="Repost"> 
+    <text>Repost</text>
+  </lang>
+  <lang slug="Created">  
+    <text>Created</text>
+  </lang>
+  <lang slug="Attending">  
+    <text>Attending</text>
+  </lang>
+  <lang slug="No Reply"> 
+    <text>No Reply</text>
+  </lang>
+  <lang slug="Maybe">  
+    <text>Maybe</text>
+  </lang>
+  <lang slug="Interested"> 
+    <text>Interested</text>
+  </lang>
+  <lang slug="Declined"> 
+    <text>Declined</text>
+  </lang>
+  <lang slug="Palce">  
+    <text>Palce</text>
+  </lang>
+  <lang slug="Start time"> 
+    <text>Start time</text>
+  </lang>
+  <lang slug="End time"> 
+    <text>End time</text>
+  </lang>
+  <lang slug="Map">  
+    <text>Map</text>
+  </lang>
+  <lang slug="CLOSE">  
+    <text>CLOSE</text>
+  </lang>
+  <lang slug="Email">  
+    <text>Email</text>
+  </lang>
+  <lang slug="Address">  
+    <text>Address</text>
+  </lang>
+  <lang slug="Phone">  
+    <text>Phone</text>
+  </lang>
+  <lang slug="Website">  
+    <text>Website</text>
+  </lang>
+  <lang slug="Likes">  
+    <text>Likes</text>
+  </lang>
+  <lang slug="State">  
+    <text>State</text>
+  </lang>
+  <lang slug="Zip">  
+    <text>Zip</text>
+  </lang>
+  <lang slug="Avatar"> 
+    <text>Avatar</text>
+  </lang>
+  <lang slug="Page"> 
+    <text>Page</text>
+  </lang>
+  <lang slug="Group">  
+    <text>Group</text>
+  </lang>
+  <lang slug="Place">  
+    <text>Place</text>
+  </lang>
+  <lang slug="Website title is required">  
+    <text>Website title is required</text>
+  </lang>
+  <lang slug="Public key is required"> 
+    <text>Public key is required</text>
+  </lang>
+  <lang slug="Secret key is required"> 
+    <text>Secret key is required</text>
+  </lang>
+  <lang slug="LICENSE">  
+    <text>LICENSE</text>
+  </lang>
+  <lang slug="Purchase code">  
+    <text>Purchase code</text>
+  </lang>
+  <lang slug="GENARAL">  
+    <text>GENARAL</text>
+  </lang>
+  <lang slug="POST &amp; SCHEDULE">  
+    <text>POST &amp; SCHEDULE</text>
+  </lang>
+  <lang slug="LOGIN SOCIAL"> 
+    <text>LOGIN SOCIAL</text>
+  </lang>
+  <lang slug="Website name"> 
+    <text>Website name</text>
+  </lang>
+  <lang slug="Website description">  
+    <text>Website description</text>
+  </lang>
+  <lang slug="Website keywords"> 
+    <text>Website keywords</text>
+  </lang>
+  <lang slug="Website logo"> 
+    <text>Website logo</text>
+  </lang>
+  <lang slug="Theme color">  
+    <text>Theme color</text>
+  </lang>
+  <lang slug="Timezone server">  
+    <text>Timezone server</text>
+  </lang>
+  <lang slug="Default language"> 
+    <text>Default language</text>
+  </lang>
+  <lang slug="Add new language"> 
+    <text>Add new language</text>
+  </lang>
+  <lang slug="view-demo">  
+    <text>view-demo</text>
+  </lang>
+  <lang slug="Register user">  
+    <text>Register user</text>
+  </lang>
+  <lang slug="Auto active user"> 
+    <text>Auto active user</text>
+  </lang>
+  <lang slug="Default delay every post on post now"> 
+    <text>Default delay every post on post now</text>
+  </lang>
+  <lang slug="Minimum delay every post on post now"> 
+    <text>Minimum delay every post on post now</text>
+  </lang>
+  <lang slug="Default delay every post on schedule"> 
+    <text>Default delay every post on schedule</text>
+  </lang>
+  <lang slug="Minimum delay every post on schedule"> 
+    <text>Minimum delay every post on schedule</text>
+  </lang>
+  <lang slug="Maximum size of file uploads"> 
+    <text>Maximum size of file uploads</text>
+  </lang>
+  <lang slug="MB"> 
+    <text>MB</text>
+  </lang>
+  <lang slug="Facebook Secret">  
+    <text>Facebook Secret</text>
+  </lang>
+  <lang slug="Googe Client ID">  
+    <text>Googe Client ID</text>
+  </lang>
+  <lang slug="Google Client Secret"> 
+    <text>Google Client Secret</text>
+  </lang>
+  <lang slug="Twitter Consumer Secret">  
+    <text>Twitter Consumer Secret</text>
+  </lang>
+  <lang slug="Send now"> 
+    <text>Gửi ngay</text>
+  </lang>
+  <lang slug="Fullname is required"> 
+    <text>Chưa nhập tên</text>
+  </lang>
+  <lang slug="Email is required">  
+    <text>Chưa nhập e mail</text>
+  </lang>
+  <lang slug="Invalid email format"> 
+    <text>Email không đúng định dạng</text>
+  </lang>
+  <lang slug="Expiration date is required">  
+    <text>Ngày hết hạn chưa nhập</text>
+  </lang>
+  <lang slug="Timezone is required"> 
+    <text>Chưa nhập múi giờ</text>
+  </lang>
+  <lang slug="Password is required"> 
+    <text>Chưa nhập mật khẩu</text>
+  </lang>
+  <lang slug="Passwords must be at least 6 characters">  
+    <text>Mật khẩu ít nhất 6 ký tự</text>
+  </lang>
+  <lang slug="Password incorrect"> 
+    <text>Mật khẩu sai</text>
+  </lang>
+  <lang slug="Login successfully"> 
+    <text>Đăng nhập thành công</text>
+  </lang>
+  <lang slug="Your account has not been activated">  
+    <text>Tài khoản của bạn chưa được kích hoạt</text>
+  </lang>
+  <lang slug="Username or password incorrect"> 
+    <text>Tên đăng nhập hoặc mật khẩu ko đúng</text>
+  </lang>
+  <lang slug="Register successfully">  
+    <text>Đăng ký thành cmn công</text>
+  </lang>
+  <lang slug="Email already exists"> 
+    <text>Email đã tồn tại</text>
+  </lang>
+  <lang slug="Reset password key not exists">  
+    <text>Mật khẩu ko tồn tại</text>
+  </lang>
+  <lang slug="Please check your email to reset password">  
+    <text>Check Email để đổi mật khẩu</text>
+  </lang>
+  <lang slug="An error occurred. Please try again later">  
+    <text>Đã xảy ra lỗi. Vui lòng thử lại sau</text>
+  </lang>
+  <lang slug="This email address does not exist">  
+    <text>Email ko tồn tại</text>
+  </lang>
+  <lang slug="Admin">  
+    <text>Admin</text>
+  </lang>
+  <lang slug="Maximum facebook accounts">  
+    <text>Maximum facebook accounts</text>
+  </lang>
+  <lang slug="Expiration date">  
+    <text>Ngày hết hạn</text>
+  </lang>
+  <lang slug="Timezone"> 
+    <text>Múi giờ</text>
+  </lang>
+  <lang slug="Changed">  
+    <text>Thay đổi</text>
+  </lang>
+  <lang slug="Info and Package"> 
+    <text>Thông tin và gói</text>
+  </lang>
+  <lang slug="Maximum liked pages">  
+    <text>Maximum liked pages</text>
+  </lang>
+  <lang slug="Time zone">  
+    <text>Múi giờ</text>
+  </lang>
+  <lang slug="Password"> 
+    <text>Password</text>
+  </lang>
+  <lang slug="Re-password">  
+    <text>Re-password</text>
+  </lang>
+  <lang slug="Update user">  
+    <text>Cập nhật user</text>
+  </lang>
+  <lang slug="Is Admin"> 
+    <text>Là Admin</text>
+  </lang>
+  <lang slug="--- Select package ---"> 
+    <text>--- Chọn gói ---</text>
+  </lang>
+  <lang slug="Value must be less then 5000"> 
+    <text>Giá trị phải nhỏ hơn 5000</text>
+  </lang>
+  <lang slug="Value must be less then 50"> 
+    <text>Giá trị phải nhỏ hơn 50</text>
+  </lang>
+  <lang slug="Deleted">  
+    <text>Xóa</text>
+  </lang>
+  <lang slug="Select at least one item"> 
+    <text>Chọn ít nhất 1 item</text>
+  </lang>
+  <lang slug="Select at least one Page/Group/Profile/Friend">  
+    <text>Chọn ít nhất Page/Group/Profile/Friend</text>
+  </lang>
+  <lang slug="No data available in table"> 
+    <text>Không có dữ liệu trong bảng</text>
+  </lang>
+  <lang slug="Please wait..."> 
+    <text>Vui lòng đợi...</text>
+  </lang>
+  <lang slug="OR LOGIN VIA"> 
+    <text>OR LOGIN VIA</text>
+  </lang>
+  <lang slug="Email Address">  
+    <text>Địa chỉ Email</text>
+  </lang>
+  <lang slug="Confirm password"> 
+    <text>Xác nhận mật khẩu</text>
+  </lang>
+  <lang slug="Please buy one of packages to use">  
+    <text>Mua gói nâng cấp để sử dụng</text>
+  </lang>
+  <lang slug="Please check your email to reset password"> 
+    <text>Check mai để đổi mật khẩu</text>
+  </lang>
+  <lang slug="This email address does not exist"> 
+    <text>Email ko tồn tại</text>
+  </lang>
+  <lang slug="This email address does not exist"> 
+    <text>Email ko tồn tại.</text>
+  </lang>
+  <lang slug="An error occurred. Please try again later"> 
+    <text>Đã xảy ra lỗi. Vui lòng thử lại sau</text>
+  </lang>
+  <lang slug="Click into link to reset your password">  
+    <text>Nhấn để đặt mật khẩu</text>
+  </lang>
+  <lang slug="Forgot password"> 
+    <text>Quên mật khẩu</text>
+  </lang>
+  <lang slug="Reset password">  
+    <text>Đặt lại mật khẩu</text>
+  </lang>
+  <lang slug="Reset password key not exists"> 
+    <text>Mật khẩu sai</text>
+  </lang>
+</data>
